@@ -1,1 +1,2 @@
-My first readme
+My first readme  
+Updating my README.md file
